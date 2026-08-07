@@ -21,15 +21,15 @@
 <!-- ─────────────── ABOUT ─────────────── -->
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="dev gif" />
 
-- 🔭 &nbsp;I love building things **from scratch** — a Redis-compatible store, an LLM browser agent
+ 🔭 &nbsp;I love building things **from scratch**.
 
-- ⚙️ &nbsp;Working mostly with **Next.js**, **Node.js** & **TypeScript**
+ ⚙️ &nbsp;Working mostly with **Next.js**, **Node.js** & **TypeScript**
 
-- 🌱 &nbsp;I'm currently learning **distributed systems & networking**
+ 🌱 &nbsp;I'm currently learning **distributed systems & networking**
 
-- 💬 &nbsp;Ask me about **React, Node.js, Next.js & system design**
+ 💬 &nbsp;Ask me about **React, Node.js, Next.js & system design**
 
-- 📫 &nbsp;How to reach me **mayanklap23@gmail.com**
+ 📫 &nbsp;How to reach me **mayanklap23@gmail.com**
 
 <br clear="right"/>
 
@@ -79,12 +79,6 @@
 
 <br/>
 
-<!-- ─────────────── TOP LANGUAGES ─────────────── -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yank2003&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="yank2003" />
-</p>
-
-<br/>
 
 <!-- ─────────────── SNAKE ─────────────── -->
 <p align="center">
