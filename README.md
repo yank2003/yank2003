@@ -1,21 +1,18 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=210&section=header&text=Mayank%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20who%20builds%20from%20scratch&descAlignY=56&descSize=18" width="100%" />
+<p align="center">
+  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" width="100%" alt="banner" />
+</p>
 
-<!-- ═══════════════════════ TYPING + SOCIALS ═══════════════════════ -->
+<h1 align="center">Hi 👋, I'm Mayank Singh (yank)</h1>
+<h3 align="center">Full-Stack Developer who builds from scratch • New Delhi, India</h3>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer;I+build+systems+from+scratch;Always+shipping+something+new;Turning+caffeine+into+code" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/yank2003/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mayanklap23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/yank2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=yank2003&label=Profile+Views&color=764BA2&style=for-the-badge" alt="views" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yank2003/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mayanklap23@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/yank2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yank2003&label=Profile+Views&color=764BA2&style=for-the-badge" alt="views" />
+</p>
 
 <br/>
 
@@ -23,7 +20,7 @@
 
 ## &nbsp;👨‍💻 &nbsp;About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding gif" />
+<img align="right" width="380" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
 
 ```typescript
 const mayank = {
@@ -146,8 +143,14 @@ const mayank = {
 
 <div align="center">
 
-### 💜 &nbsp;Thanks for visiting — let's build something great.
+### 💜 &nbsp;Thanks for stopping by!
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=120&section=footer&text=Let's%20Connect!&fontColor=ffffff&fontSize=28&fontAlignY=70" width="100%" />
