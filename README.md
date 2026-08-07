@@ -126,10 +126,6 @@ which keeps every step at roughly the same token cost no matter how long the run
 
 ### 📊 &nbsp;Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yank2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=764BA2&icon_color=667EEA&text_color=c9d1d9" alt="stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yank2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=764BA2&text_color=c9d1d9" alt="languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yank2003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=764BA2&line=667EEA&point=ffffff&area=true" width="98%" alt="activity" />
