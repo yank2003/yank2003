@@ -1,148 +1,52 @@
-<!-- ══════════════════════════ BANNER ══════════════════════════ -->
+![MasterHead](https://cdn.pfps.gg/banners/5132-pixel-mario.gif)
+
+<h1 align="center">Hi 👋, I'm Mayank Singh (yank)</h1>
+<h3 align="center">A passionate full stack developer from New Delhi, India</h3>
 
 <p align="center">
-  <img src="https://cdn.pfps.gg/banners/5132-pixel-mario.gif" width="100%" alt="banner" />
+  <img src="https://komarev.com/ghpvc/?username=yank2003&label=Profile%20views&color=0e75b6&style=flat" alt="yank2003" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mayank Singh <code>(yank)</code></h1>
+<img width="400" align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="dev gif" />
 
-<p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; I like taking black boxes apart and rebuilding them
-  <br/>
-  <sub>New Delhi, India</sub>
-</p>
+- 🔭 I'm currently working on a **Full stack program**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yank2003/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mayanklap23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/yank2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yank2003&label=Profile+Views&color=764BA2&style=for-the-badge" alt="views" />
-</p>
+- 🌱 I'm currently learning **Next.js & Networking**
 
-<br/>
-
-<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
-
-<img align="right" width="330" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding" />
-
-### 👨‍💻 &nbsp;About
-
-I build full-stack products, but what I actually enjoy is going one layer lower than I need to —
-writing the protocol instead of importing the client, building the engine instead of calling the API.
-
-- 🔭 &nbsp;Working with **Next.js**, **Node.js** and **TypeScript** day to day
-- ⚙️ &nbsp;Most fun I've had recently: writing a **Redis-compatible server from scratch**, zero dependencies
-- 🌱 &nbsp;Currently going deeper into **distributed systems** and **networking**
-- 💬 &nbsp;Happy to talk about **system design**, **real-time apps**, or **anything low-level**
-- ⚡ &nbsp;Best debugging happens at 2 AM
+- 📫 How to reach me **mayanklap23@gmail.com**
 
 <br clear="right"/>
 
-<!-- ══════════════════════════ STACK ══════════════════════════ -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yank2003/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
-### 🧰 &nbsp;Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Core**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-</td>
-<td valign="top" width="50%">
-
-**Backend / Data**
-
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
-
-### 🚀 &nbsp;Things I've Built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚙️ Mini Redis
-
-An in-memory key-value store written from scratch in Node.js with **zero dependencies** — a TCP server
-speaking the real RESP wire protocol, streaming parser, AOF persistence, O(1) LRU eviction, TTL expiry
-and Pub/Sub, all on a single-threaded event loop.
-
-Then I built a **Discord-style chat app** that runs entirely on it.
-
-`Node.js` `TypeScript` `TCP/RESP` `Socket.IO`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 Lark
-
-An LLM agent that takes a goal in plain English and drives a real Chromium browser until it's done.
-
-Instead of screenshots it reads each page as a numbered element list from the accessibility tree —
-which keeps every step at roughly the same token cost no matter how long the run goes.
-
-`Node.js` `Playwright` `React` `Socket.IO`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════ STATS ══════════════════════════ -->
-
-### 📊 &nbsp;Stats
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yank2003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=764BA2&line=667EEA&point=ffffff&area=true" width="98%" alt="activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yank2003&show_icons=true&locale=en&layout=compact" alt="yank2003" />
 </p>
 
 <br/>
 
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yank2003/yank2003/output/snake.svg" width="100%" alt="snake" />
+  <img src="https://raw.githubusercontent.com/yank2003/yank2003/output/snake.svg" width="100%" alt="snake animation" />
 </p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/yank2003/"><img src="https://img.shields.io/badge/Let's_build_something-764BA2?style=for-the-badge&logo=handshake&logoColor=white" alt="connect" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=100&section=footer" width="100%" />
